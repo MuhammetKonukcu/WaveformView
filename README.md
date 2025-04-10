@@ -1,7 +1,7 @@
 # WaveformView
 This class is designed to convert data received from a microphone into a visual waveform display.
 
-https://github.com/user-attachments/assets/0d1ee53a-3e41-428f-b78b-5fc85ca27ff0
+https://github.com/user-attachments/assets/20b7059d-4509-473d-9eb6-e8a07fcc2a21
 
 Properties:
 - Values such as bar color, width, spacing and corner radius can be customized via XML.
